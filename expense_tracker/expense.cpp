@@ -3,7 +3,7 @@ using namespace std;
 
 struct Expense {
     int id;
-    string date;       // format: YYYY-MM-DD
+    string date;      
     string category;
     double amount;
     string note;
